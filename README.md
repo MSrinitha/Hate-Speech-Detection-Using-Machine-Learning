@@ -15,7 +15,7 @@ This project aims to use machine learning techniques to develop a hate speech de
 The project focuses on building a hate speech detection system that can classify text as hate speech or non-hate speech. It involves training machine learning models on labeled data to learn the patterns and characteristics of hate speech. The models can then be used to automatically detect and flag potentially offensive content.
 
 ## Dataset
-The project utilizes a labeled dataset specifically curated for hate speech detection. The dataset contains text samples labeled as hate speech or non-hate speech. It serves as the foundation for training and evaluating the machine learning models. You can find more details about the dataset in the Dataset directory.
+The project utilizes a labeled dataset specifically curated for hate speech detection. The dataset contains text samples labeled as hate speech or non-hate speech. It serves as the foundation for training and evaluating the machine learning models. You can find more details about the dataset in the labeled_data.csv file.
 
 ## Preprocessing
 Before training the models, the text data undergoes preprocessing steps such as lowercasing, punctuation removal, and tokenization. Stop word removal, stemming, and other techniques may also be applied to further clean the text and improve the model's performance.
