@@ -24,7 +24,7 @@ Before training the models, the text data undergoes preprocessing steps such as 
 Feature extraction involves converting the text into a numerical representation that the machine learning models can process. Techniques such as bag-of-words, TF-IDF (Term Frequency-Inverse Document Frequency), and word embeddings (e.g., Word2Vec, GloVe) are commonly used to transform text data into feature vectors.
 
 ## Model Training
-The project explores various machine learning algorithms for hate speech detection, including support vector machines (SVM), decision trees, and KMeans. The labeled data is split into training and validation sets, and the models are trained using the features extracted from the text data.
+The project explores various machine learning algorithms for hate speech detection, including support vector machines (SVM),and decision trees. The labeled data is split into training and validation sets, and the models are trained using the features extracted from the text data.
 
 ## Evaluation
 To assess the performance of the trained models, evaluation metrics such as accuracy are calculated on a separate test set. The evaluation results provide insights into the effectiveness of the models in detecting hate speech and their ability to generalize to unseen data.
